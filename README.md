@@ -1,7 +1,7 @@
 # golang_tasks
 
 
-Micro-service Tasks is the part of the end-to-end project of the task matching system (uses [auth mucro-service](https://github.com/yuliazhelt/golang_auth) for authorization). The project is built according to the hexagonal architecture rules.
+Microservice Tasks is the part of the end-to-end project of the task matching system (uses [auth mucro-service](https://github.com/yuliazhelt/golang_auth) for authorization). The project is built according to the hexagonal architecture rules.
 
 System users create tasks and send them for approval. The system monitors the process of coordination of tasks and sends a notification to participants about the progress of coordination.
 
